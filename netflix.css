@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   font-family: Arial, sans-serif;
+   background-color: #141414;
+   color: #fff;
+   overflow-x: hidden;
+}
+header{
+    position: fixed;
+    width: 100%;
+    padding: 20%;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+.logo{
+    
+}
+
